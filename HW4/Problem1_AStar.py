@@ -1,4 +1,9 @@
 #######################################################
+#### Erin Zahner
+#### Problem1_AStar.py
+#### Original AStar Maze code, only with dif maze config
+#######################################################
+#######################################################
 #### MazeGame uses a grid of rows X cols to demonstrate
 #### pathfinding using A*.
 ####
