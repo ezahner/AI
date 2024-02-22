@@ -1,4 +1,9 @@
 #######################################################
+#### Erin Zahner
+#### Problem1_GBFS.py
+#### Greedy Best-First Search of Maze
+#######################################################
+#######################################################
 #### MazeGame uses a grid of rows X cols to demonstrate
 #### pathfinding using A*.
 ####
