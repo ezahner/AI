@@ -1,4 +1,9 @@
 #######################################################
+#### Erin Zahner
+#### Problem2.py
+#### Euclidean Distance, diagonal moves, random order
+#######################################################
+#######################################################
 #### MazeGame uses a grid of rows X cols to demonstrate
 #### pathfinding using A*.
 ####
